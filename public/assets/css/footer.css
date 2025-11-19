@@ -1,0 +1,1 @@
+/* footer.css - minified in header.css for structure; keeping specific overrides */.footer .news-feed{display:grid;gap:12px;margin-top:20px}.news-item{padding:12px;border-radius:12px;border:1px solid var(--bar);background:rgba(255,255,255,.04)}.footer .modal-link{color:var(--brand);text-decoration:none}.footer .modal-link:hover{text-decoration:underline}
